@@ -1,0 +1,15 @@
+привет hello
+привет hi
+я I
+словарь dictionary
+ты you
+дом house
+машина car
+кошка cat
+собака dog
+цветок flower
+книга book
+кровать bed
+нога leg
+рука arm
+палец finger
